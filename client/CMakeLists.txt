@@ -17,7 +17,7 @@ add_executable( client
 
 target_link_libraries(client 
     PRIVATE
-        core2
+        core
         plog::plog
         Boost::program_options
 )

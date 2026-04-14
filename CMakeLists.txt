@@ -20,6 +20,6 @@ set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
 
 message("CMAKE_SOURCE_DIR: ${CMAKE_SOURCE_DIR}")
 
-add_subdirectory(core2)
+add_subdirectory(core)
 add_subdirectory(client)
 add_subdirectory(server)
