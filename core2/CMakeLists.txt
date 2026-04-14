@@ -3,7 +3,7 @@
 # Project Name Version & main Languages.
 project(core2 VERSION 1.0.0 LANGUAGES CXX)
 
-add_library(core SHARED  
+add_library(core2 SHARED  
     core.cpp
 )
 
